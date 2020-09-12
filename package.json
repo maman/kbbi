@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "helmet": "^3.22.0",
     "idx": "^2.5.6",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "parse5-sax-parser": "^6.0.0"
   },
   "devDependencies": {
